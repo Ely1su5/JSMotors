@@ -1,0 +1,157 @@
+/*Seccion JSMotors*/
+main{
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.JSmotors-sec, .compra-sec, .vende-sec{
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.JSMotors-cont, .compra-cont, .vende-cont{
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+main{
+    margin-top: 300px;
+}
+
+main hr{
+    width: 85%;
+    background: black;
+    border: none;
+    height: 8px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.img{
+    display: block;
+    height: 100%;
+    width: fit-content;
+    align-items: flex-end;
+}
+
+.logo{
+    width: 170px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.titulo-parrafo{
+    width: 60%;
+    text-align: justify;
+}
+
+.titulo-parrafo h2{
+    font-family: Arial rounded mt;
+    border-radius: 100vh;
+    padding: 3px;
+    font-size: 2.5rem;
+    width: fit-content;
+    color: black;
+    margin-bottom: 20px;
+}
+
+p {
+    font-family: Arial rounded mt;
+    color:black;
+    font-size: 1rem;
+    line-height: 25px;
+    margin-top: 10px;
+}
+
+.compraventa-cont .titulo-parrafo{
+    width: 72%;
+}
+
+.JSmotors-cont .titulo-parrafo{
+    width: 90%;
+}
+
+.compraventa-sec {
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.compra-cont{
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.compraventasegura{
+    font-family: Arial rounded mt;
+    border-radius: 100vh;
+    padding: 3px;
+    font-size: 2.8rem;
+    width: fit-content;
+    color: black;
+    margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+.contenedor-revision{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.turbo{
+    width: 30%;
+    height: 30%;
+    margin-left: 600px;
+    margin-right: 100px;
+}
+
+.clasicos{
+    width: 30%;
+    height: 30%;
+    margin-left: 600px;
+    margin-right: 100px;
+}
+
+.marcas2{
+    width: 30%;
+    height: 30%;
+    margin-left: 600px;
+    margin-right: 100px;
+}
+
+.revision, .revision-img-3{
+    width: 15em;
+    margin-right: 100px;
+    margin-left: 600px;
+    margin-top: 20px;
+}
+
+.marcas, .marcas-img-2{
+    width: 15em;
+    margin-right: 100px;
+    margin-left: 600px;
+    margin-top: 20px;
+}
+.revision-img-4{
+    width: 12em;
+    margin-right: 30px;
+    margin-top: 15px;
+}
